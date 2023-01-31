@@ -11,16 +11,8 @@ The data was anaylsed using R for the summer season (i.e. June-August 2021). Cle
 ## 
 
 ## Results:
-* The data shows that members prefere only Classic bikes and to less extend the Electric bikes comparing to the casual riders who prefer the three types(i.e. Classic, Docked, and Electric)
-
-* The time length of the ride tripes for the casual rides is one fold higher than members' tripes durations with average 0.6 hour for the casual rider and 0.2 hour for the member rider.
-
-* Docked bikes has the highest average trip duration of 1.43 hours followed by classic bikes and electric bikes of 0.4 hour and 0.3 respectivly 
-
-
+The data reveals a preference among members for Classic bikes and to a lesser extent Electric bikes, compared to casual riders who prefer all three types (Classic, Docked, and Electric). The average trip duration for casual riders is longer, at 0.6 hours, while members tend to have shorter trips of 0.2 hours. Among the three types, Docked bikes have the longest average trip duration of 1.43 hours, followed by Classic bikes at 0.4 hours and Electric bikes at 0.3 hours. 
 
 ![biketypevsfrequncy_v2](https://user-images.githubusercontent.com/107861698/215891099-86460ea6-500b-431c-9410-bfcd3376fdff.png)
-
 ![biketypevsfrquency_v1](https://user-images.githubusercontent.com/107861698/215891195-c32b76e7-b172-42f5-bc1b-cc7932089045.png)
-
 ![ridelengthvsmembership_v1](https://user-images.githubusercontent.com/107861698/215891320-2f1a3406-7f9e-43d9-b714-89b32354f772.png)
