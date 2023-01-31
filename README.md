@@ -19,3 +19,8 @@ The data was anaylsed using R for the summer season (i.e. June-August 2021). Cle
 
 
 
+![biketypevsfrequncy_v2](https://user-images.githubusercontent.com/107861698/215891099-86460ea6-500b-431c-9410-bfcd3376fdff.png)
+
+![biketypevsfrquency_v1](https://user-images.githubusercontent.com/107861698/215891195-c32b76e7-b172-42f5-bc1b-cc7932089045.png)
+
+![ridelengthvsmembership_v1](https://user-images.githubusercontent.com/107861698/215891320-2f1a3406-7f9e-43d9-b714-89b32354f772.png)
