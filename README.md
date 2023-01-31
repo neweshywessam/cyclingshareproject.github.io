@@ -1,10 +1,20 @@
 # neweshywessam.github.io
-# This is a case stidy on Bike-Share project
+## Case Study: Bike-share project
 
-#Input
-The data are historical trip dataset in the following link:
-https://divvy-tripdata.s3.amazonaws.com/index.html
+The aim of this project to evaluate how annual members and casual riders use Cyclistics bikes differently.
 
-#Output
-The out put data are analysis of the ride length and the differences between the casual and annaul members. Moreover, comparing the prefrences of each customers
-towards specific bikes
+##Input files:
+The data are Cyclistics historical trip data from the following [link](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+##Output files:
+The data was anaylsed for the summer season (i.e. June-August 2021)
+
+##Results:
+* The data shows that members prefere only Classic bikes and to less extend the Electric bikes comparing to the casual riders who prefer the three types(i.e. Classic, Docked, and Electric)
+
+* The time length of the ride tripes for the casual rides is one fold higher than members' tripes durations with average 0.6 hour for the casual rider and 0.2 hour for the member rider.
+
+* Docked bikes has the highest average trip duration of 1.43 hours followed by classic bikes and electric bikes of 0.4 hour and 0.3 respectivly 
+
+
+
