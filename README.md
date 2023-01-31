@@ -1,4 +1,3 @@
-# neweshywessam.github.io
 ## Case Study: Bike-share project
 
 The aim of this project to evaluate how annual members and casual riders use Cyclistics bikes differently.
